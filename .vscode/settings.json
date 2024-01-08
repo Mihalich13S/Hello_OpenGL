@@ -1,0 +1,6 @@
+{
+    "cmake.generator": "Ninja",
+    "cmake.configureArgs": [],
+    "editor.formatOnSave": true,
+    "sonarlint.pathToCompileCommands": "${workspaceFolder}\\build\\compile_commands.json"
+}
