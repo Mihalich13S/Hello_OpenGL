@@ -2,8 +2,4 @@
 freeglut/3.4.0
 
 [generators]
-cmake
 CMakeDeps
-
-[options]
-glut:shared=False
