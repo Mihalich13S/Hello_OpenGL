@@ -7,7 +7,7 @@
 GLint Width = 512, Height = 512;
 
 /* размер куба */
-const int CubeSize = 200;
+const int CubeSize = 300;
 
 /* эта функция управляет всем выводом на экран */
 void Display(void) {
